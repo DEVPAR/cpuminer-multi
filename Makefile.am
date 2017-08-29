@@ -69,6 +69,7 @@ cpuminer_SOURCES = \
   algo/groestl.c \
   algo/heavy.c \
   algo/ink.c \
+  algo/jha.c \
   algo/lbry.c \
   algo/luffa.c \
   algo/lyra2re.c \
@@ -89,7 +90,9 @@ cpuminer_SOURCES = \
   algo/skein.c \
   algo/skein2.c \
   algo/s3.c \
+  algo/bitcore.c \
   algo/timetravel.c \
+  algo/tribus.c \
   algo/veltor.c \
   algo/x11evo.c \
   algo/x11.c \
